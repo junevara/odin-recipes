@@ -1,2 +1,2 @@
 # odin-recipes
-links to a few recipes
+With this project I will set up a small webpage with a homepage and some links to several recipes pages. I will show my new skills about html tags such as the one for headings, paragraphs, lists, links and images.
